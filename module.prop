@@ -1,0 +1,6 @@
+id=disable_power_button
+name=Disable Power Button
+version=1.0
+versionCode=1
+author=Asadul Al Galib
+description=Disables the faulty hardware power button
