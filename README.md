@@ -5,7 +5,6 @@ This Magisk module disables the power button by commenting out the relevant key 
 ## Features
 - Disables the power button to prevent accidental shutdowns or screen locks.
 - Safe and reversible via Magisk module management.
-- No permanent changes to your system partition; can be easily removed.  
 
 
 ## Installation
